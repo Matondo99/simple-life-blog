@@ -29,19 +29,19 @@ Author should:
 
 #### Desktop view
 
-===
+___
 
 ![Desktop view](design/simple_life_desktop_view.png)
 
-===
+___
 
 #### Mobile view
 
-===
+___
 
 ![Mobile view](design/simple_life_mobile_view.png)
 
-===
+___
 
 ### Links
 
