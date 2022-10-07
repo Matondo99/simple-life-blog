@@ -45,8 +45,7 @@ ___
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Simple life Blog](https://matondo99.github.io/simple-life-blog/index.html)
 
 ## My process
 
@@ -63,11 +62,8 @@ The power and simplicity of flexbox.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Github - [Astar Bahouidi](https://github.com/Matondo99)
+- Frontend Mentor - [@Matondo99](https://www.frontendmentor.io/profile/Matondo99)
 
 ## Acknowledgments
 
