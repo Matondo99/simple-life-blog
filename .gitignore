@@ -1,3 +1,2 @@
 *.json
-assets/
-images/
+.vscode/
